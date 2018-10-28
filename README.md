@@ -27,7 +27,7 @@
   - To know the devices connected
     - adb kill-server
     - adb devices
-    - cordova run android --devicce
+    - cordova run android --device
   - Chrome Debugging Tools
     - chrome://inspect/#devices
     - select the device name to open in browser and debug
