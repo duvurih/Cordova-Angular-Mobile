@@ -2,7 +2,7 @@
 
 # Technology & Features
   - Angular v6
-  - Cordova
+  - Cordova"
   - Android SDK
   - Fingerprint Authentication Integration
   - Camera Integration for Profile Picture
@@ -16,6 +16,22 @@
     - Cordova App Folder "AngularMobile"
       - Cordova App Source
       - www - Angular Output Folder and Cordova output folder
+  - Creating Application
+    - ng new "AngularCordovaApp"
+    - move to "AngularCordovaApp"
+    - cordova create AngularMobile
+    - move to "AngularMobile"
+    - Add following platforms
+      - cordova platform add android
+      - cordova platform add ios
+      - cordova platform add browser
+    - Add following plugins
+      - cordova plugin add cordova-plugin-device
+      - cordova plugin add cordova-plugin-network-information
+      - cordova plugin add cordova-plugin-camera
+      - cordova plugin add cordova-plugin-geolocation
+      - cordova plugin add cordova-plugin-fingerprint-aio
+      - cordova plugin add cordova-plugin-android-fingerprint-auth
 
 # Build Process
   - Angular Application Build Process
