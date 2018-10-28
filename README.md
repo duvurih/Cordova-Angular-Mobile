@@ -57,11 +57,11 @@
     - Add fingerprint authentication
     - execute the following command to register the fingerprint command
       - adb -e emu finger touch <finger_id>
-      - adb -e emu finger touch 11aa11
+      - adb -e emu finger touch 123abc
     - Now build and run the application on emulator
       - cordova run android
       - Now app will ask for fingerprint authentication. To authenticate execute the below command
-      - adb -e emu finger touch 11aa11
+      - adb -e emu finger touch 123abc
   
 # Deployment
   - Android
