@@ -27,7 +27,7 @@
     - cordodva run android --device //deploy and run on android mobile
 
 # Debugging Process
-  - To know the devices connected
+  - How to know connected devices
     - adb kill-server
     - adb devices
     - cordova run android --device
