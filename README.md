@@ -7,8 +7,12 @@
   - Fingerprint Authentication Integration
   - Camera Integration for Profile Picture
   - GeoLocation Statistics
-  - Weather API Integration
+  - Weather API Integration (OpenWatherAPI)
+  - Flickr API Integration (FlickrAPI)
+  - Forex API Integration (ForexPI)
   - Push Notifications
+    - OneSignal.com and Google Cloud Messaging for Android
+    - Firebase Cordova Plugin 
 
 # Application  Structure
   - Angular App Folder
