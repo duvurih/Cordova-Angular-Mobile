@@ -31,6 +31,17 @@
   - Chrome Debugging Tools
     - chrome://inspect/#devices
     - select the device name to open in browser and debug
+  - Fingerprint Authentication Test on Emulator
+    - Open Emulator settings
+    - Configure the pattern under the Security Settings
+    - Add fingerprint authentication
+    - execute the following command to recognize the fingerprint command
+      - adb -e emu finger touch <finger_id>
+      - adb -e emu finger touch 11aa11
+    - Now build and run the application on emulator
+      - cordova run android
+      - Now app will ask for fingerprint authentication. To authenticate execute the below command
+      - adb -e emu finger touch 11aa11
   
 # Deployment
   - Android
