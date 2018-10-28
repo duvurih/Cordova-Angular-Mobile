@@ -38,7 +38,7 @@
     - Open Emulator settings
     - Configure the pattern under the Security Settings
     - Add fingerprint authentication
-    - execute the following command to recognize the fingerprint command
+    - execute the following command to register the fingerprint command
       - adb -e emu finger touch <finger_id>
       - adb -e emu finger touch 11aa11
     - Now build and run the application on emulator
