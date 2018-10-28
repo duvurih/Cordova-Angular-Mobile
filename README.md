@@ -50,7 +50,8 @@
   - Chrome Debugging Tools
     - chrome://inspect/#devices
     - select the device name to open in browser and debug
-  - Fingerprint Authentication Test on Emulator
+  - Fingerprint Authentication Test on Android Emulator
+    - Fingerprint Authentication works only on Marshmallow or greater versions
     - Open Emulator settings
     - Configure the pattern under the Security Settings
     - Add fingerprint authentication
