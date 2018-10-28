@@ -8,11 +8,11 @@
   - Push Notifications
 
 # Application  Structure
-  -- Angular App Folder
-    -- Angular Source and Depedencies
-    -- Cordova App Folder "AngularMobile"
-      -- Cordova App Source
-      -- www - Angular Output Folder and Cordova output folder
+  - Angular App Folder
+    - Angular Source and Depedencies
+    - Cordova App Folder "AngularMobile"
+      - Cordova App Source
+      - www - Angular Output Folder and Cordova output folder
 
 # Build Process
   - Angular Application Build Process
