@@ -1,6 +1,9 @@
-# Cordova-Angular-Mobile Technology & Features
+# Cordova-Angular-Mobile
+
+# Technology & Features
   - Angular v6
   - Cordova
+  - Android SDK
   - Fingerprint Authentication Integration
   - Camera Integration for Profile Picture
   - GeoLocation Statistics
