@@ -2,7 +2,7 @@
 
 # Technology & Features
   - Angular v6
-  - Cordova"
+  - Cordova
   - Android SDK
   - Fingerprint Authentication Integration
   - Camera Integration for Profile Picture
@@ -46,7 +46,7 @@
     - cordova run browser // run on browser
     - cordodva run android --device //deploy and run on android mobile
 
-# Debugging Process
+# Testing and Debugging Process
   - How to know connected devices
     - adb kill-server
     - adb devices
