@@ -5,3 +5,7 @@
   - Camera Integration for Profile Picture
   - GeoLocation Statistics
   - Weather API Integration
+
+# Deployment
+  - Android
+  - iOS
