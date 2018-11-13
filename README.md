@@ -1,4 +1,4 @@
-# Cordova-Angular-Mobile
+# Cordova-Angular Mobile/Windows App
 
 # Technology & Features
   - Angular v6
@@ -29,6 +29,7 @@
       - cordova platform add android
       - cordova platform add ios
       - cordova platform add browser
+      - cordova platform add cordova-windows
     - Add following plugins
       - cordova plugin add cordova-plugin-device
       - cordova plugin add cordova-plugin-network-information
@@ -44,8 +45,9 @@
     - cordova run android //run on emulator
     - cordova build android // only build the apk file
     - cordova run browser // run on browser
-    - cordodva run android --device //deploy and run on android mobile
-
+    - cordova run android --device //deploy and run on android mobile
+    - cordova run windows // make-sure you have administrator previlages on windows 10 and developer mode enabled
+    - cordova run windows -- --win //explicitly specify windows as target
 # Testing and Debugging Process
   - How to know connected devices
     - adb kill-server
