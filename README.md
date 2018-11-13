@@ -1,6 +1,7 @@
 # Cordova-Angular Mobile/Desktop App
 
 # Technology & Features
+  - Windows 10 SDK to deploy cordova application as Wndows 10 desktop Application
   - Angular v6
   - Cordova
   - Android SDK
@@ -38,7 +39,7 @@
       - cordova plugin add cordova-plugin-fingerprint-aio
       - cordova plugin add cordova-plugin-android-fingerprint-auth
 
-# Build Process
+# Build and Deployment Process
   - Angular Application Build Process
     - ng build --prod --base-href ./ --output-path .\AngularMobile\www
   - Cordova Application Build Process 
@@ -47,7 +48,7 @@
     - cordova run browser // run on browser
     - cordova run android --device //deploy and run on android mobile
     - cordova run windows // make-sure you have administrator previlages on windows 10 and developer mode enabled
-    - cordova run windows -- --win //explicitly specify windows as target
+    - cordova run windows -- --win //explicitly specify windows as target. Ensure Windows 10 SDK is installed
 # Testing and Debugging Process
   - How to know connected devices
     - adb kill-server
