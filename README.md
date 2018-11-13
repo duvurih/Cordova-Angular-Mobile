@@ -1,4 +1,4 @@
-# Cordova-Angular Mobile/Windows App
+# Cordova-Angular Mobile/Desktop App
 
 # Technology & Features
   - Angular v6
