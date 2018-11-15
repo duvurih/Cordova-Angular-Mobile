@@ -77,3 +77,4 @@
 # Deployment
   - Android
   - iOS
+  - Windows 10
