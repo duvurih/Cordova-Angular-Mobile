@@ -4,11 +4,17 @@
 
 ![alt text](https://github.com/duvurih/Cordova-Angular-Mobile-Desktop/blob/master/Context.png)
 
-# Technology & Features
+# Pre-Requisites
   - Windows 10 SDK to deploy cordova application as Wndows 10 desktop Application
-  - Angular v6
-  - Cordova
+  - Android Studio
   - Android SDK
+  - Java SDK
+  - Node.js
+  - Cordova
+  
+# Technology & Features
+  - Angular v7
+  - Cordova
   - Fingerprint Authentication Integration
   - Camera Integration for Profile Picture
   - GeoLocation Statistics
