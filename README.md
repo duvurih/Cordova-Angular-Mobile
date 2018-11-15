@@ -1,5 +1,9 @@
 # Cordova-Angular Mobile/Desktop App
 
+# Mobile App:
+
+![alt text](https://github.com/duvurih/Cordova-Angular-Mobile-Desktop/blob/master/Context.png)
+
 # Technology & Features
   - Windows 10 SDK to deploy cordova application as Wndows 10 desktop Application
   - Angular v6
